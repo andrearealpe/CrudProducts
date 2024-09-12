@@ -1,0 +1,5 @@
+co\com\hyunseda\market\access\IDataBaseManager.class
+co\com\hyunseda\market\service\IProductService.class
+co\com\hyunseda\market\access\DataBaseManager.class
+co\com\hyunseda\market\service\IProductValidator.class
+co\com\hyunseda\market\service\ProductValidator.class
